@@ -1,5 +1,5 @@
 # ned
-Portable line editor library for resource constrained systems.
+Portable line editor C library for resource constrained systems.
 
 ### WORK IN PROGRESS
 
